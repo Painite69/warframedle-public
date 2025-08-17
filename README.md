@@ -19,7 +19,7 @@ it's inspired by the amazing loldle game.
 - Responsive + mobile-friendly
 - Two view modes, fullscreen and windowed to fit most screens and a colorblind mode.
 
-## 📸 Screenshots
+## 📸 Main Menu
 ![Main Menu on desktop](images/desktop/1.jpeg)
 ![Main Menu on phone](images/phone/1.jpeg)
 
